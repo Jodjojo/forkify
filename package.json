@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Yusuff Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.27.1",
+    "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
+    "parcel": "^2.8.2",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "sass": "^1.61.0"
+  }
+}
