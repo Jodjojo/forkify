@@ -1,5 +1,11 @@
 .recipe {
   background-color: $color-grey-light-1;
+  @media only screen and (max-width: $bp-smallest) {
+    width: 70vw;
+  }
+  @media only screen and (max-width: $bp-small) {
+    width: 70vw;
+  }
 
   ///////////
   // FIGURE
@@ -68,6 +74,14 @@
     display: flex;
     align-items: center;
     padding: 7.5rem 8rem 3.5rem 8rem;
+    @media only screen and (max-width: $bp-smallest) {
+      padding: 7.5rem 8rem 3.5rem 1rem;
+      flex-wrap: wrap;
+    }
+    @media only screen and (max-width: $bp-small) {
+      padding: 7.5rem 8rem 3.5rem 1rem;
+      flex-wrap: wrap;
+    }
   }
 
   &__info {

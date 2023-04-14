@@ -2,6 +2,9 @@
   padding: 3rem 0;
   display: flex;
   flex-direction: column;
+  @media only screen and (max-width: $bp-smallest) {
+    width: 20vw;
+  }
 }
 
 .results {

@@ -9,6 +9,13 @@
     margin-left: 4rem;
     height: 4.6rem;
     display: block;
+    @media only screen and (max-width: $bp-small) {
+      height: 3rem;
+    }
+    @media only screen and (max-width: $bp-smallest) {
+      height: 2rem;
+      margin-left: 2rem;
+    }
   }
 }
 
@@ -42,20 +49,47 @@
     }
 
     @media only screen and (max-width: $bp-medium) {
-      width: auto;
+      width: 50%;
 
       &::placeholder {
-        color: white;
+        color: rgb(252, 246, 246);
       }
+    }
+
+    @media only screen and (max-width: $bp-small) {
+      width: 70%;
+      padding-right: -20%;
     }
   }
 
   &__btn {
     font-weight: 600;
     font-family: inherit;
+
+    @media only screen and (max-width: $bp-small) {
+      width: 20%;
+      position: absolute;
+      right: 0;
+
+      span {
+        display: none;
+      }
+
+      svg {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    }
+  }
+
+  @media only screen and (max-width: $bp-small) {
+    position: relative;
+    margin-left: -30%;
+    margin-right: -30%;
   }
 }
-
+//
 .nav {
   align-self: stretch;
   margin-right: 2.5rem;
@@ -85,6 +119,19 @@
 
     display: flex;
     align-items: center;
+
+    @media only screen and (max-width: $bp-small) {
+      flex-wrap: nowrap;
+      margin-left: 20%;
+    }
+
+    @media only screen and (max-width: $bp-smallest) {
+      span {
+        display: none;
+      }
+
+      flex-wrap: nowrap;
+    }
 
     svg {
       height: 2.4rem;
@@ -140,5 +187,9 @@
   .nav__btn--bookmarks:hover + & {
     visibility: visible;
     opacity: 1;
+  }
+
+  @media only screen and (max-width: $bp-small) {
+    right: 0;
   }
 }

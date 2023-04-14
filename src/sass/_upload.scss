@@ -12,6 +12,14 @@
   z-index: 1000;
   transition: all 0.5s;
 
+  @media only screen and (max-width: $bp-smallest) {
+    width: 60rem;
+  }
+
+  @media only screen and (max-width: $bp-smallest) {
+    width: 80rem;
+  }
+
   .btn--close-modal {
     font-family: inherit;
     color: inherit;
@@ -22,6 +30,12 @@
     cursor: pointer;
     border: none;
     background: none;
+    @media only screen and (max-width: $bp-smallest) {
+      right: 10%;
+    }
+    @media only screen and (max-width: $bp-medium) {
+      right: 8%;
+    }
   }
 }
 
@@ -47,11 +61,23 @@
   grid-template-columns: 1fr 1fr;
   gap: 4rem 6rem;
 
+  @media only screen and (max-width: $bp-small) {
+    gap: 4rem 0rem;
+  }
+
+  @media only screen and (max-width: $bp-smallest) {
+    column-gap: -5rem;
+  }
+
   &__column {
     display: grid;
     grid-template-columns: 1fr 2.8fr;
     align-items: center;
     gap: 1.5rem;
+    @media only screen and (max-width: $bp-small) {
+      gap: 0rem;
+      margin-left: 30%;
+    }
 
     & label {
       font-size: 1.5rem;
@@ -66,8 +92,17 @@
       border-radius: 0.5rem;
       transition: all 0.2s;
 
+      @media only screen and (max-width: $bp-small) {
+        font-size: 1rem;
+        padding-right: -30rem;
+        width: 50%;
+      }
+
       &::placeholder {
         color: $color-grey-light-3;
+        @media only screen and (max-width: $bp-small) {
+          font-size: 1rem;
+        }
       }
 
       &:focus {
@@ -90,6 +125,12 @@
     text-transform: uppercase;
     margin-bottom: 1rem;
     grid-column: 1/-1;
+    @media only screen and (max-width: $bp-small) {
+      margin-left: 8%;
+    }
+    @media only screen and (max-width: $bp-smallest) {
+      margin-left: 0;
+    }
   }
 
   &__btn {
