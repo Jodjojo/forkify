@@ -1,4 +1,27 @@
-7801
+7812
+92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\node_modules\commander\LICENSE133162716862939196 0
+91C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\typed-array\fill.js133184172474201014 0
+92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\src\_new_arrow_check.mjs133162716874877275 0
+98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\web-animation.js133162716884581498 0
+86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\regions\MT.js133162716881589503 0
+76C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dotenv-expand\LICENSE133162716864644635 0
+71C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views\bookmarksView.js133187743274426672 0
+101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\esnext.set.is-disjoint-from.js133184172466941240 0
+74C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\readdirp\index.d.ts133162718171718879 0
+75C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\glob-parent\index.js133162718172057976 0
+78C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stage\README.md133184172585823995 0
+94C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\array\virtual\group.js133184172508264224 0
+89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\lines-and-columns\build\index.d.ts133162716865133350 0
+103C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\node_modules\commander\typings\index.d.ts133162716866180545 0
+72C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\has-flag\index.js133162716863647307 0
+81C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\mdn-data\css\syntaxes.json133162716869012967 0
+102C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\typed-array\uint8-clamped-array.js133184172581907282 0
+88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\graph\lib\ContentGraph.js133162716875794824 0
+52C:\Users\JODJOJO\Desktop\potfolio\starter\.gitignore133256338220543991 0
+76C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\node-addon-api\napi.h133162716867337439 0
+77C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\escape.js133184172460948347 0
+89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\symbol\dispose.js133184172447842207 0
+91C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dom-serializer\node_modules\entities133162716867646609 1
 87C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\math\degrees.js133184172446370991 0
 61C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\braces133162718172556648 1
 95C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stable\string\virtual\italics.js133184172530343447 0
@@ -17,7 +40,7 @@
 53C:\Users\JODJOJO\Desktop\potfolio\starter\.prettierrc132886631200000000 0
 76C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\css-what\lib\commonjs133162716869232373 1
 97C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\htmlnano\lib\modules\removeOptionalTags.js133162716869332104 0
-49C:\Users\JODJOJO\Desktop\potfolio\starter\src\img132886631200000000 1
+49C:\Users\JODJOJO\Desktop\potfolio\starter\src\img133256352712329215 1
 87C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\string\small.js133184172560623634 0
 74C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\base-x\src\index.js133162716862959140 0
 86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\regions\BT.js133162716873052157 0
@@ -45,7 +68,7 @@
 73C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\lib\size.js133162716871296862 0
 90C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stable\instance\flat-map.js133184172484829389 0
 86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\object\assign.js133184172431675270 0
-46C:\Users\JODJOJO\Desktop\potfolio\starter\dist133256335948050260 1
+46C:\Users\JODJOJO\Desktop\potfolio\starter\dist133256384402123717 1
 70C:\Users\JODJOJO\Desktop\potfolio\starter\forkify-flowchart-part-1.png132886631200000000 0
 101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@jridgewell\source-map\dist\source-map.mjs.map133162716865612060 0
 66C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\dist133162716871765601 1
@@ -58,7 +81,7 @@
 68C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\picomatch\lib133162718172227578 1
 87C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\svgo\plugins\removeDimensions.js133162716870548846 0
 73C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\chalk\package.json133162716865392638 0
-68C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views\recipeView.js133189507295920163 0
+68C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views\recipeView.js133256371637343987 0
 91C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\esnext.math.isubh.js133184172463634967 0
 80C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\internals\task.js133184172568968920 0
 81C:\Users\JODJOJO\Desktop\potfolio\starter\forkify-architecture-recipe-loading.png132886631200000000 0
@@ -164,7 +187,7 @@
 68C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dotenv-expand133162716865362720 1
 84C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\string\substr.js133184172567851681 0
 86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\regions\MK.js133162716881330201 0
-64C:\Users\JODJOJO\Desktop\potfolio\starter\src\sass\_preview.scss132886631200000000 0
+64C:\Users\JODJOJO\Desktop\potfolio\starter\src\sass\_preview.scss133256370066448830 0
 111C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js133162716888092119 0
 79C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\timsort\build\timsort.js133162716866001018 0
 71C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\json5\LICENSE.md133162716869970395 0
@@ -201,7 +224,7 @@
 82C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\set\add-all.js133184172427940151 0
 101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133162716871117338 0
 96C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\css-lch-lab.js133162716875525545 0
-58C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\config.js133188962032939507 0
+58C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\config.js133256362826356240 0
 85C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stable\string\index.js133184172523277223 0
 79C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\math\hypot.js133184172510045263 0
 114C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133162716869352050 0
@@ -211,7 +234,7 @@
 58C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\helper.js133188974625291473 0
 67C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\util.js133162716870808153 0
 106C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\background-attachment.js133162716870838074 0
-57C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\model.js133188987262654997 0
+57C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\model.js133256384173374348 0
 103C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133162716868833433 0
 88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\object\freeze.js133184172492673571 0
 88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\string\trim-end.js133184172577255828 0
@@ -224,14 +247,6 @@
 92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\lmdb\dependencies\lz4\lib\dll\example133162716875136587 1
 78C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\fractional\package.json133256331179693310 0
 54C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views133187753396465301 1
-92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\node_modules\commander\LICENSE133162716862939196 0
-91C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\typed-array\fill.js133184172474201014 0
-92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\src\_new_arrow_check.mjs133162716874877275 0
-98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\web-animation.js133162716884581498 0
-86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\regions\MT.js133162716881589503 0
-76C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dotenv-expand\LICENSE133162716864644635 0
-71C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views\bookmarksView.js133187743274426672 0
-101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\esnext.set.is-disjoint-from.js133184172466941240 0
 72C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views\paginationView.js133186153946057742 0
 58C:\Users\JODJOJO\Desktop\potfolio\starter\src\img\logo.png132886631200000000 0
 74C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\packager-js133162716884392013 1
@@ -243,7 +258,7 @@
 101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\es.reflect.get-prototype-of.js133184172456649848 0
 96C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\wbr-element.js133162716884581498 0
 114C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133162716866629330 0
-69C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views\previewView.js133188984640314380 0
+69C:\Users\JODJOJO\Desktop\potfolio\starter\src\js\views\previewView.js133256382935458938 0
 89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\lib\_object_spread.js133162716871256956 0
 101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\intl-pluralrules.js133162716879834027 0
 61C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@babel133162716857633377 1
@@ -273,13 +288,13 @@
 92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\typed-array\index.js133184172518832067 0
 99C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\esnext.array.group-to-map.js133184172461227616 0
 59C:\Users\JODJOJO\Desktop\potfolio\starter\src\img\icons.svg133256331594654597 0
+80C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\browser\types\set.js133162716870359356 0
+63C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\anymatch133162718172676329 1
 85C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\immutable\dist\immutable.es.js133162718172466888 0
 60C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\chalk133162716866240373 1
 84C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\object\assign.js133184172431804931 0
 100C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\bundler-default\src\DefaultBundler.js133162716887812868 0
 59C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\.bin133256331192964870 1
-80C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\browser\types\set.js133162716870359356 0
-63C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\anymatch133162718172676329 1
 73C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\.package-lock.json133256331193947476 0
 83C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\workers\lib\Trace.js133162716873989655 0
 110C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133162716881240273 0
@@ -894,11 +909,11 @@
 73C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dotenv\lib\main.js133162716866669219 0
 96C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\geolocation.js133162716878367943 0
 78C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\types\timestamp.js133162716870508954 0
-86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\instance\for-each.js133184172489103122 0
-84C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stable\number\virtual133184172571780494 1
-97C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\node_modules\commander\CHANGELOG.md133162716864774289 0
 78C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\css-select\lib\index.js133162716866649279 0
 85C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\dist\Document-9b4560a1.js133162716865163252 0
+86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\instance\for-each.js133184172489103122 0
+97C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\node_modules\commander\CHANGELOG.md133162716864774289 0
+84C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stable\number\virtual133184172571780494 1
 94C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\dragndrop.js133162716877340702 0
 80C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\svgo\plugins\prefixIds.js133162716870309488 0
 109C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133162716881220323 0
@@ -986,12 +1001,12 @@
 96C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\typed-array\int16-array.js133184172524663524 0
 87C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\lmdb\dependencies\lmdb\libraries133162716864385342 1
 83C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\browser\types\binary.js133162716863447831 0
-98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\es.aggregate-error.cause.js133184172451467645 0
-81C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\browser\types\omap.js133162716867626662 0
-85C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\csso\lib\clean\TypeSelector.js133162716870538883 0
-98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\update-browserslist-db\check-npm-version.js133162716863278287 0
 83C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\css-tree\dist\csstree.min.js133162716870269610 0
 72C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\stable\index.d.ts133162716863238395 0
+85C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\csso\lib\clean\TypeSelector.js133162716870538883 0
+98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\update-browserslist-db\check-npm-version.js133162716863278287 0
+98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\es.aggregate-error.cause.js133184172451467645 0
+81C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\yaml\browser\types\omap.js133162716867626662 0
 88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\string\virtual\bold.js133184172436551861 0
 75C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\escape.js133184172460908457 0
 102C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\proposals\string-replace-all-stage-4.js133184172564503268 0
@@ -1248,6 +1263,7 @@
 90C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\const.js133162716874308807 0
 93C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\es.string.trim-left.js133184172458405156 0
 86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\update-browserslist-db\utils.js133162716865013653 0
+67C:\Users\JODJOJO\Desktop\potfolio\starter\dist\favicon.8b2f57bf.png133256382795471836 0
 89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\array\find-index.js133184172477442585 0
 76C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\symbol133184172582770071 1
 83C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\symbol\index.js133184172521521915 0
@@ -1516,12 +1532,6 @@
 101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\es.array-buffer.constructor.js133184172451597279 0
 84C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\string\trim.js133184172579665430 0
 83C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stable\math\index.js133184172522748641 0
-74C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\readdirp\index.d.ts133162718171718879 0
-75C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\glob-parent\index.js133162718172057976 0
-78C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stage\README.md133184172585823995 0
-94C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\array\virtual\group.js133184172508264224 0
-89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\lines-and-columns\build\index.d.ts133162716865133350 0
-103C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\node_modules\commander\typings\index.d.ts133162716866180545 0
 90C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\css-tree\lib\syntax\config\lexer.js133162716872653228 0
 72C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\terser\lib\ast.js133162716866908582 0
 88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\postcss-value-parser\lib\index.js133162716863378022 0
@@ -1829,7 +1839,7 @@
 80C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\source-map-js\lib\util.js133162718172666347 0
 105C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133162716874588046 0
 72C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\mdn-data\index.js133162716864774289 0
-57C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.html133256335948040278 0
+57C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.html133256384401950396 0
 89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\dist\lib\supported.js133162716883374754 0
 73C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\js-tokens\index.js133162716863667249 0
 85C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\number\is-finite.js133184172527201845 0
@@ -2271,10 +2281,10 @@
 70C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\clone\README.md133162716863707206 0
 98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\array\virtual\to-sorted.js133184172573306389 0
 68C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\nth-check\lib133162716869282235 1
+88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\instance\some.js133184172561052495 0
 93C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dom-serializer\lib\esm\foreignNames.js133162716863417912 0
 80C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\node-addon-api\napi-inl.h133162716866948475 0
 89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\web.url.to-json.js133184172585125885 0
-88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\instance\some.js133184172561052495 0
 81C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\nth-check\lib\compile.d.ts133162716868673870 0
 88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\array\to-reversed.js133184172572857598 0
 72C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\nth-check\lib\esm133162716869152585 1
@@ -2340,13 +2350,6 @@
 77C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\node-gyp-build\LICENSE133162716862889326 0
 98C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\typed-array\int16-array.js133184172524763244 0
 82C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\node-addon-api\CHANGELOG.md133162716868424531 0
-72C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\has-flag\index.js133162716863647307 0
-81C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\mdn-data\css\syntaxes.json133162716869012967 0
-102C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\typed-array\uint8-clamped-array.js133184172581907282 0
-76C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\node-addon-api\napi.h133162716867337439 0
-77C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\escape.js133184172460948347 0
-89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\symbol\dispose.js133184172447842207 0
-91C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\dom-serializer\node_modules\entities133162716867646609 1
 92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\reporter-cli\src\logLevels.js133162716891132766 0
 100C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\abortcontroller.js133162716864664582 0
 89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\stable\object\to-string.js133184172576477898 0
@@ -3412,6 +3415,7 @@
 102C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\modules\esnext.string.to-well-formed.js133184172468601934 0
 84C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\features\string\at.js133184172433370745 0
 101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133162716873471038 0
+64C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.e37f48ea.js133256383904442689 0
 92C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\css-tree\lib\syntax\pseudo\slotted.js133162716874348693 0
 82C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\full\reflect\get.js133184172504574100 0
 100C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133162716887703155 0
@@ -5971,6 +5975,7 @@
 106C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\core\test\fixtures\config-extends-not-found133162716899187679 1
 82C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\function\name.js133184172541823192 0
 91C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\function\virtual\index.js133184172514293898 0
+65C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.f7626f62.css133256382794961042 0
 129C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\main.js133162716871007620 0
 80C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\error\index.js133184172514184188 0
 79C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\es\date\index.js133184172514154270 0
@@ -6290,6 +6295,7 @@
 87C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\fs\src\NodeFS.browser.js133162716898728842 0
 100C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\input-selection.js133162716879604640 0
 93C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\instance\copy-within.js133184172443139631 0
+68C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.a38fb82e.js.map133256384402102239 0
 91C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\core-js\actual\instance\ends-with.js133184172449093977 0
 95C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\src\_async_to_generator.mjs133162716873810131 0
 84C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\chrome-trace-event\CHANGES.md133162716864734400 0
@@ -6651,6 +6657,7 @@
 94C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\clipboard.js133162716873969705 0
 89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\colr.js133162716874189119 0
 97C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\console-time.js133162716874278879 0
+64C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.a38fb82e.js133256384401960581 0
 100C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\contenteditable.js133162716874378616 0
 89C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\cors.js133162716874468374 0
 102C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\caniuse-lite\data\features\createimagebitmap.js133162716874498288 0
@@ -7016,6 +7023,7 @@
 97C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs133162716874079412 0
 113C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133162716904084525 0
 100C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\src\_class_private_field_get.mjs133162716874189119 0
+65C:\Users\JODJOJO\Desktop\potfolio\starter\dist\icons.21bad73c.svg133256382795356995 0
 143C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\package.json133162716873790182 0
 107C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133162716874248958 0
 86C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\workers\src\Profiler.js133162716873800164 0
@@ -7540,6 +7548,7 @@
 73C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\logger\src133162716891033035 1
 83C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\logger\src\Logger.js133162716891043012 0
 78C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\hash\browser.js133162716872413867 0
+65C:\Users\JODJOJO\Desktop\potfolio\starter\dist\icons.dfd7a6db.svg133256382795671879 0
 76C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\hash\index.js133162716872453757 0
 101C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133162716879036155 0
 99C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\hash\parcel-hash.win32-x64-msvc.node133162716881340165 0
@@ -7549,7 +7558,6 @@
 85C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\graph\test\integration133162716875655252 1
 88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\graph\src\ContentGraph.js133162716875804797 0
 81C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\graph\src\Graph.js133162716876034181 0
-88C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\graph\lib\ContentGraph.js133162716875794824 0
 107C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\fs-search\fs-search.linux-arm-gnueabihf.node133162716874348693 0
 104C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\fs-search\fs-search.linux-arm64-musl.node133162716876742293 0
 102C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\@parcel\fs-search\fs-search.linux-x64-musl.node133162716878776853 0
@@ -7798,5 +7806,8 @@
 68C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\.bin\svgo.cmd133162717085523994 0
 70C:\Users\JODJOJO\Desktop\potfolio\starter\node_modules\.bin\terser.cmd133162717085514024 0
 67C:\Users\JODJOJO\Desktop\potfolio\starter\dist\favicon.76dd299c.png133256325656682201 0
+68C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.e37f48ea.js.map133256383904528302 0
+69C:\Users\JODJOJO\Desktop\potfolio\starter\dist\index.f7626f62.css.map133256382795066446 0
+64C:\Users\JODJOJO\Desktop\potfolio\starter\dist\logo.726d37a8.png133256382795143360 0
 68C:\Users\JODJOJO\Desktop\potfolio\starter\disc\index.765e7083.js.map133256318815077296 0
 69C:\Users\JODJOJO\Desktop\potfolio\starter\disc\index.bb3970c7.css.map133256318815077296 0

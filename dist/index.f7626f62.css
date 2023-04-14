@@ -633,6 +633,13 @@ body {
   color: #918581;
 }
 
+@media only screen and (max-width: 31.25em) {
+  .copyright {
+    white-space: nowrap;
+    font-size: 1rem;
+  }
+}
+
 .recipe {
   background-color: #f9f5f3;
 }
